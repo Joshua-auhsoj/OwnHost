@@ -1,0 +1,28 @@
+#菜鸟开屏广告
+127.0.0.1 adashx.ut.cainiao.com
+#泰拉瑞亚Wiki广告
+127.0.0.1 app.wiki.gg
+#阿里系热更新及软件更新下载  
+127.0.0.1 appdownload.alicdn.com
+127.0.0.1 download.alicdn.com
+127.0.0.1 gromore.pangolin-sdk-toutiao.com
+#美团外卖开屏广告，副作用是图片无法加载
+127.0.0.1 p0.meituan.com
+127.0.0.1 p0.meituan.net
+127.0.0.1 p1.meituan.com
+127.0.0.1 p1.meituan.net
+127.0.0.1 img.meituan.net
+#疑似阿里系更新检测
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 orange-dc.alibaba.com
+127.0.0.1 ossgw.alicdn.com
+#其他
+127.0.0.1 adiu.amap.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 rtb.voiceads.cn
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
