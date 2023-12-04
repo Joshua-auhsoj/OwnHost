@@ -16,6 +16,9 @@
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 orange-dc.alibaba.com
 127.0.0.1 ossgw.alicdn.com
+#Nhentai广告
+127.0.0.1 a.adtng.com
+127.0.0.1 tsyndicate.com
 #其他
 127.0.0.1 adiu.amap.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
