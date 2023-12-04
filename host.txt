@@ -20,6 +20,7 @@
 127.0.0.1 a.adtng.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 creative.hpyjmp.com
+127.0.0.1 go.hpyjmp.com
 #其他
 127.0.0.1 adiu.amap.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
