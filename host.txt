@@ -22,8 +22,10 @@
 127.0.0.1 creative.hpyjmp.com
 127.0.0.1 go.hpyjmp.com
 #Kemono广告
+127.0.0.1 creative.xlivrdr.com
+127.0.0.1 video.ktkjmp.com
 127.0.0.1 go.xlivrdr.com
-127.0.0.1 topaitools.fun
+127.0.0.1 pk910324e.com
 #其他
 127.0.0.1 adiu.amap.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
