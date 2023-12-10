@@ -30,6 +30,7 @@
 127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 b-hls-19.doppiocdn.org
 127.0.0.1 img.strpst.com
+127.0.0.1 s.magsrv.com
 #其他
 127.0.0.1 adiu.amap.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
