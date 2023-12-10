@@ -26,6 +26,9 @@
 127.0.0.1 video.ktkjmp.com
 127.0.0.1 go.xlivrdr.com
 127.0.0.1 pk910324e.com
+#sukebei广告
+127.0.0.1 s3t3d2y8.afcdn.net
+127.0.0.1 
 #其他
 127.0.0.1 adiu.amap.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
