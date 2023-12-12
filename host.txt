@@ -21,6 +21,7 @@
 127.0.0.1 tsyndicate.com
 127.0.0.1 creative.hpyjmp.com
 127.0.0.1 go.hpyjmp.com
+127.0.0.1 cdn.tsyndicate.com
 #Kemono广告
 127.0.0.1 creative.xlivrdr.com
 127.0.0.1 video.ktkjmp.com
