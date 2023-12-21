@@ -27,6 +27,8 @@
 127.0.0.1 video.ktkjmp.com
 127.0.0.1 go.xlivrdr.com
 127.0.0.1 pk910324e.com
+#Coomer广告
+127.0.0.1 cdn.pncloudfl.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
 #其他
