@@ -30,6 +30,7 @@
 #Coomer广告
 127.0.0.1 cdn.pncloudfl.com
 127.0.0.1 creative.xlivrdr.com
+127.0.0.1 rxeosevsso.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
 #其他
