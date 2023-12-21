@@ -29,6 +29,7 @@
 127.0.0.1 pk910324e.com
 #Coomer广告
 127.0.0.1 cdn.pncloudfl.com
+127.0.0.1 creative.xlivrdr.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
 #其他
