@@ -39,3 +39,15 @@
 127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 rtb.voiceads.cn
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+
+
+#以下为重定向内容
+#Kemono重定向
+190.115.16.14 kemono.su
+91.149.227.1 c1.kemono.su
+91.149.227.2 c2.kemono.su
+91.149.227.3 c3.kemono.su
+91.149.227.4 c4.kemono.su
+91.149.227.5 c5.kemono.su
+91.149.227.6 c6.kemono.su
+91.149.227.7 c7.kemono.su
