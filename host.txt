@@ -12,10 +12,6 @@
 127.0.0.1 p1.meituan.com
 127.0.0.1 p1.meituan.net
 127.0.0.1 img.meituan.net
-#疑似阿里系更新检测
-127.0.0.1 acs.m.taobao.com
-127.0.0.1 orange-dc.alibaba.com
-127.0.0.1 ossgw.alicdn.com
 #Nhentai广告
 127.0.0.1 a.adtng.com
 127.0.0.1 tsyndicate.com
@@ -37,7 +33,6 @@
 127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 rtb.voiceads.cn
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 
 
