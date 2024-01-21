@@ -2,13 +2,11 @@
 127.0.0.1 adashx.ut.cainiao.com
 #泰拉瑞亚Wiki广告
 127.0.0.1 app.wiki.gg
-#阿里系热更新及软件更新下载  
-127.0.0.1 appdownload.alicdn.com
-127.0.0.1 download.alicdn.com
-127.0.0.1 gromore.pangolin-sdk-toutiao.com
+
 #淘宝开屏广告
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 amdc.m.taobao.com
+
 #美团外卖开屏广告，副作用是图片无法加载
 127.0.0.1 p0.meituan.com
 127.0.0.1 p0.meituan.net
