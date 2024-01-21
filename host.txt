@@ -2,6 +2,7 @@
 127.0.0.1 adashx.ut.cainiao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 amdc.m.taobao.com
+127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 dorangesource.alicdn.com
 #美团外卖开屏广告，副作用是图片无法加载
 127.0.0.1 p0.meituan.com
