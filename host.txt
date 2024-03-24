@@ -1,16 +1,8 @@
 #傻逼酷安
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
-#阿里系
-127.0.0.1 adashx.ut.cainiao.com
-127.0.0.1 adashx.m.taobao.com
-127.0.0.1 amdc.m.taobao.com
-127.0.0.1 h-adashx.ut.taobao.com
-127.0.0.1 dorangesource.alicdn.com
 #美团外卖开屏广告，副作用是图片无法加载
 127.0.0.1 p0.meituan.com
-127.0.0.1 p0.meituan.net
 127.0.0.1 p1.meituan.com
-127.0.0.1 p1.meituan.net
 127.0.0.1 img.meituan.net
 #Nhentai广告
 127.0.0.1 a.adtng.com
@@ -31,33 +23,8 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.ra2.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-#其他
-127.0.0.1 adiu.amap.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao1.com
-127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+
 
 
 #以下为重定向内容
-#Kemono重定向
-190.115.16.14 kemono.su
-91.149.227.1 c1.kemono.su
-91.149.227.2 c2.kemono.su
-91.149.227.3 c3.kemono.su
-91.149.227.4 c4.kemono.su
-91.149.227.5 c5.kemono.su
-91.149.227.6 c6.kemono.su
-91.149.227.7 c7.kemono.su
-190.115.16.14 kemono.party
-91.149.227.1 c1.kemono.party
-91.149.227.2 c2.kemono.party
-91.149.227.3 c3.kemono.party
-91.149.227.4 c4.kemono.party
-91.149.227.5 c5.kemono.party
-91.149.227.6 c6.kemono.party
-91.149.227.7 c7.kemono.party
 
