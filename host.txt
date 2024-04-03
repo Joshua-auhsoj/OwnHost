@@ -1,5 +1,6 @@
 #傻逼酷安
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 #美团外卖开屏广告，副作用是图片无法加载
 127.0.0.1 p0.meituan.com
 127.0.0.1 p1.meituan.com
