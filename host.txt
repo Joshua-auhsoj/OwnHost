@@ -34,6 +34,8 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
+#学小易视频广告
+api-access.pangolin-sdk-toutiao-b.com 127.0.0.1
 
 
 
