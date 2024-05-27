@@ -12,11 +12,12 @@
 127.0.0.1 go.hpyjmp.com
 127.0.0.1 cdn.tsyndicate.com
 #Kemono广告
-127.0.0.1 creative.xlivrdr.com
-127.0.0.1 uejntsxdffp.com
-127.0.0.1 go.mnaspm.com
-127.0.0.1 rxeosevsso.com
+127.0.0.1 a.magsrv.com
 127.0.0.1 a.pemsrv.com
+127.0.0.1 creative.xlivrdr.com
+127.0.0.1 go.mnaspm.com
+127.0.0.1 uejntsxdffp.com
+127.0.0.1 rxeosevsso.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
 #MIUI
