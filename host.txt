@@ -38,6 +38,8 @@
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
 #学小易视频广告
 api-access.pangolin-sdk-toutiao-b.com 127.0.0.1
+#Outlook置顶广告
+mediation.adnxs.com 127.0.0.1
 
 
 
