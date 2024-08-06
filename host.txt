@@ -41,6 +41,8 @@ api-access.pangolin-sdk-toutiao-b.com 127.0.0.1
 #Outlook置顶广告
 mediation.adnxs.com 127.0.0.1
 ib.adnxs-simple.com 127.0.0.1
+#闲鱼广告
+ossgw.alicdn.com 127.0.0.1
 
 
 #以下为重定向内容
