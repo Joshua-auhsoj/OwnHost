@@ -1,6 +1,5 @@
 #傻逼酷安
-127.0.0.1 gromore.pangolin-sdk-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+
 #美团外卖开屏广告，副作用是图片无法加载
 127.0.0.1 p0.meituan.com
 127.0.0.1 p1.meituan.com
@@ -18,6 +17,11 @@
 127.0.0.1 go.mnaspm.com
 127.0.0.1 uejntsxdffp.com
 127.0.0.1 rxeosevsso.com
+127.0.0.1 ancamcdu.com
+127.0.0.1 go.mnaspm.com
+127.0.0.1 shakingtacklingunpeeled.com
+127.0.0.1 isolatedovercomepasted.com
+127.0.0.1 divisiondrearilyunfiled.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
 #MIUI
@@ -36,13 +40,6 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-#学小易视频广告
-api-access.pangolin-sdk-toutiao-b.com 127.0.0.1
-#Outlook置顶广告
-mediation.adnxs.com 127.0.0.1
-ib.adnxs-simple.com 127.0.0.1
-#闲鱼广告
-ossgw.alicdn.com 127.0.0.1
 
 
 #以下为重定向内容
