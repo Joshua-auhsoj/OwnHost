@@ -40,7 +40,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-
-
+#闲鱼开屏广告
+127.0.0.1 ossgw.alicdn.com
 #以下为重定向内容
 
