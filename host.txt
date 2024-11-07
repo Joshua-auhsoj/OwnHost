@@ -43,7 +43,8 @@
 #闲鱼开屏广告
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 vali.cp31.ott.cibntv.net
-
+#Outlook广告
+127.0.0.1 m.adnxs.com
 
 
 #以下为重定向内容
